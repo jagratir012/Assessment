@@ -256,7 +256,7 @@ Layer 6: [Validation & Risk Assessment]
 ## 📁 Project Structure
 
 ```
-agentic-sdlc-system/
+Assessment/
 ├── app.py                       # Web UI (Flask) — recommended entry point
 ├── main.py                      # CLI entry point
 ├── run_agent.py                 # Run individual agents
@@ -428,10 +428,9 @@ The system demonstrates **controlled autonomy** where:
 | Orchestration depth | Cross-step data flow, parallel execution, dependency management |
 | Output quality | Production FastAPI code, typed models, async patterns |
 | Validation & risk | 6-8 risks with mitigations, trade-offs, guardrails |
-| Controlled autonomy | Logged decisions, interactive mode, human review points |
 
 ---
 
 ## 📄 Created BY
 
-Jagrati with help of Amamzon kiro AI
+Jagrati with help of Amazon kiro AI
