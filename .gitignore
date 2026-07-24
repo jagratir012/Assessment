@@ -17,13 +17,11 @@ build/
 .kiro/
 
 # Cache (LLM response cache - regenerated automatically)
-.cache/
+#.cache/
 
-# Output (regenerated on each run)
-output/
 
 # Test cache
-.pytest_cache/
+#.pytest_cache/
 
 # OS
 .DS_Store
