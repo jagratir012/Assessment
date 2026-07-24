@@ -2,7 +2,7 @@
 
 An **agentic software engineering system** that transforms any software requirement into a complete, reviewable engineering outcome — including architecture design, production code, tests, risk assessment, and a polished HTML report.
 
-Built with **Python** and powered by **Anthropic Claude**, this system demonstrates end-to-end workflow automation across the Software Development Life Cycle (SDLC).
+Built with **Python** and powered by **Anthropic Claude APIs**, this system demonstrates end-to-end workflow automation across the Software Development Life Cycle (SDLC).
 
 ---
 
@@ -432,6 +432,6 @@ The system demonstrates **controlled autonomy** where:
 
 ---
 
-## 📄 License
+## 📄 Created BY
 
-MIT
+Jagrati with help of Amamzon kiro AI
